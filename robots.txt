@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eitaleaf.github.io/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/app/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/assets/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/css/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/includes/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/item/sitemap.html.gz
+Sitemap: https://eitaleaf.github.io/src/sitemap.html.gz
